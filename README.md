@@ -1,4 +1,4 @@
-# pov-prompt-generation
+# video-pov-prompt-generation
 
 # for video
 
